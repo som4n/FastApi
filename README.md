@@ -2,6 +2,7 @@
 
 This repository documents my learning journey with Python web frameworks, specifically Flask and FastAPI. I'm using this space to track my progress, store code examples, and build increasingly complex projects as I develop my skills.
 
+ 
 ## Learning Goals
 
 - Understand the fundamentals of web APIs and RESTful design
@@ -15,10 +16,10 @@ This repository documents my learning journey with Python web frameworks, specif
 
 ### Day 1: Flask Fundamentals
 - [x] Set up development environment
-- [ ] Create "Hello World" Flask application
-- [ ] Learn about Flask routing
-- [ ] Implement basic request handling (GET, POST)
-- [ ] Practice with Flask templates
+- [x] Create "Hello World" Flask application
+- [x] Learn about Flask routing
+- [x] Implement basic request handling (GET, POST)
+- [x] Practice with Flask templates
 
 ### Day 2: Flask API Development
 - [ ] Build a RESTful API with Flask
