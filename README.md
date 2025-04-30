@@ -22,8 +22,8 @@ This repository documents my learning journey with Python web frameworks, specif
 - [x] Practice with Flask templates
 
 ### Day 2: Flask API Development
-- [ ] Build a RESTful API with Flask
-- [ ] Implement CRUD operations
+- [x] Build a RESTful API with Flask
+- [x] Implement CRUD operations
 - [ ] Test API endpoints with Postman/cURL
 - [ ] Add error handling and status codes
 - [ ] Project: Simple Todo API
