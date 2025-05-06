@@ -13,7 +13,9 @@ class TodoItem(BaseModel):
     completed: bool = False
     created_at: datetime = datetime.now()
 
-# In-memory storage for todos
+
+# In-memory storage for todos 
+
 todos = []
 current_id = 1
 
